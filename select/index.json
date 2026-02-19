@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "陰ニモ日向ニモ",
+  "base_artist": "Travis Japan",
+  "createdAt": "2026-02-19T07:12:00.987870Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陰ニモ日向ニモ",
+      "artist": "TravisJapan",
+      "has_synced": false,
+      "path": "select/pl_01_陰ニモ日向ニモ_TravisJapan.txt"
+    }
+  ]
+}
